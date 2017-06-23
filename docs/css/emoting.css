@@ -78,7 +78,11 @@ button.new-event {
 /**
  * ADMIN
  */
-.progress-verygood::-webkit-progress-value {
+.progress-verygood
+ {
+  -webkit-appearance: none;
+}
+::-webkit-progress-value {
   background-color: #189834;
 }
 
