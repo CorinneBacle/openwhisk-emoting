@@ -87,7 +87,7 @@ button.new-event {
 }
 
 .progress-bad::-webkit-progress-value {
-  background-color: #d96251;
+  background-color: #FFF700;
 }
 
 .progress-verybad::-webkit-progress-value {
